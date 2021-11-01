@@ -1,0 +1,37 @@
+.banner {
+    text-align: center;
+    color: black;
+    background-color: lightgray;
+    border-radius: 5px;
+    margin: 10px 10px 30px 10px;
+    outline-style: solid;
+    font-family: 'Manrope', sans-serif;
+    font-family: 'Prompt', sans-serif;
+    letter-spacing: 3px;
+}
+.background {
+    background-image: url(landingBackground.jpg);
+}
+
+.youtube {
+    text-align: center;
+    margin: 50px 0px 50px 0px;
+}
+
+.bio {
+    margin: 20px 200px 20px 200px;
+    background-color: white;
+    outline-style: solid;
+    border-radius: 10px ;
+    font-family: 'Manrope', sans-serif;
+    font-family: 'Prompt', sans-serif;
+}
+
+.biopara {
+margin: 20px 20px 20px 20px;
+line-height: 2;
+}
+
+.buttons {
+    text-align: right;
+}
