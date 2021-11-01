@@ -1,0 +1,12 @@
+.banner {
+    text-align: center;
+    color: black;
+    background-color: lightgray;
+    border-radius: 5px;
+    margin: 10px;
+    margin-bottom: 50px;
+}
+
+.youtube {
+    text-align: center;
+}
